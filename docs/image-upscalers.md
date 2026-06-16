@@ -3,7 +3,7 @@
 Scope: upscaling still images, and individual frames, that came out of an AI generator at
 roughly 720p, pushed to 1080p or 4K. Same two use-cases as the video page: cinema-grade
 quality on one side, commercial-volume throughput on the other. Same three axes: quality,
-cost, speed. Reference machine for local claims: RTX 5090 (32 GB), Ryzen 9 9950X, 96 GB RAM,
+cost, speed. Reference machine for local claims: RTX 5090 (32 GB), Ryzen 9 9900X, 96 GB DDR5,
 8 TB NVMe.
 
 > **Read this first if your real input is video.** None of the still-image tools here

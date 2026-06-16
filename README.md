@@ -11,7 +11,7 @@ throughput on the other. There is no single winner; the answer depends on the sh
 the budget.
 
 **Reference machine** for local figures: NVIDIA RTX 5090 (32 GB GDDR7, Blackwell),
-AMD Ryzen 9 9950X, 96 GB RAM, 8 TB NVMe (Samsung 990 Pro) at ~14,000 MB/s.
+AMD Ryzen 9 9900X, 96 GB DDR5, 8 TB NVMe (Samsung 990 Pro) at ~14,000 MB/s.
 
 > **Status.** A living comparative, sourced June 2026 and cross-checked. Four tiers are **measured on the reference RTX 5090**: ESRGAN, Topaz classic (Proteus 15 fps@1080p / 7.3 fps@4K), SeedVR2 and FlashVSR ([data/measurements-5090.json](./data/measurements-5090.json)). Other speed figures are sourced and labelled with their GPU. See the [CHANGELOG](./CHANGELOG.md) for revisions.
 

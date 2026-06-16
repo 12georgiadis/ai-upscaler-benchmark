@@ -7,6 +7,12 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/).
 Versioning is date-anchored: a `MINOR` bump means new tools or a re-run of the
 methodology, a `PATCH` bump means corrections and re-verification of existing entries.
 
+## [0.3.2] - 2026-06-16
+
+### Changed
+- Corrected the reference machine (the box measurements ran on): **Ryzen 9 9900X, 96 GB DDR5**
+  (it was mislabeled 9950X). GPU (RTX 5090) and NVMe (8 TB Samsung 990 Pro ~14,000 MB/s) unchanged.
+
 ## [0.3.1] - 2026-06-16
 
 ### Changed

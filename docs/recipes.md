@@ -6,7 +6,7 @@ tagged **[measured]** are the exact configs run on the reference RTX 5090 (see
 documented/community settings for tools not yet timed locally. Where a knob controls
 fidelity-vs-invention, the value to start at is given.
 
-Reference machine: RTX 5090 (32 GB), Ryzen 9 9950X, 96 GB RAM, 8 TB Samsung 990 Pro (~14,000 MB/s).
+Reference machine: RTX 5090 (32 GB), Ryzen 9 9900X, 96 GB DDR5, 8 TB Samsung 990 Pro (~14,000 MB/s).
 
 ---
 

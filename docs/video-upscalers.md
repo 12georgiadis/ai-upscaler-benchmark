@@ -7,7 +7,7 @@ once: quality, cost and speed. There is no single winner. The recommendation dep
 the shot and the budget, so the page is built around use-cases, not a leaderboard.
 
 Reference machine for every local claim: RTX 5090 (32 GB GDDR7, Blackwell), Ryzen 9
-9950X, 96 GB RAM, 8 TB NVMe (Samsung 990 Pro) at ~14,000 MB/s.
+9900X, 96 GB DDR5, 8 TB NVMe (Samsung 990 Pro) at ~14,000 MB/s.
 
 > **Method.** Tools sourced June 2026 and cross-checked. Speed and VRAM are **measured on the reference RTX 5090** where marked (ESRGAN, Topaz classic, SeedVR2, FlashVSR); every other speed figure is sourced and labelled with the GPU it came from. Prices and product names carry a source link.
 
